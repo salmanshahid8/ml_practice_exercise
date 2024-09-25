@@ -1,16 +1,17 @@
-#  ML_SGB_2024
+#  ML Practice
 
 ## Introduction
 
-This repo is created to share the exercises (and later on) solutions for the course `Machine Learning and Optimisation (M2-SGB)`. The repo consists of notebooks, programmed in python language. The data is shared separately for each exercise. The models must be created by each student during the exercise session.
+This repo is created to share the exercises. The repo consists of notebooks, programmed in python language.
 
 ## Contents
 
-- Class 1 : The basics of Pandas (with extra topping of numpy and matplotlib)
-- Class 2 : Multiple Linear regression and Ensemble Learning
+- The basics of Pandas (with extra topping of numpy and matplotlib)
+- Multiple Linear regression
+- Ensemble Learning
 
 ## Contact Info
-- [Salman Shahid](mailto:muhammad-salman.shahid@g2elab.grenoble-inp.fr)
+- [Salman Shahid](mailto:salmanshahid8@gmail.com)
 
 ## License
 
