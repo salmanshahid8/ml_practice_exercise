@@ -198,5 +198,9 @@ fabric.properties
 *.keras
 
 # misc
-play_around.ipynb
-*_sol.ipynb
+dbscan*
+ensemble_learning*
+kmeans*
+mlp*
+mutilple_classifiers_sol.ipynb
+nlp_sentiment*
